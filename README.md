@@ -19,9 +19,9 @@ Implementar una interfaz gráfica que permita ingresar los datos de conexión y 
 ## Estructura del proyecto
 
 - `src/`: contiene el código fuente de Java.
-- `lib/`: contiene el controlador JDBC de SQLite.
+- `Lib/`: contiene el controlador JDBC de SQLite.
 - `datos/`: almacena la base de datos `inventario.db`.
-- `evidencias/`: contiene las capturas de las pruebas realizadas.
+- `Evidencias/`: contiene las capturas de las pruebas realizadas.
 - `.vscode/`: contiene la configuración del proyecto.
 
 ## Ejecución del proyecto
